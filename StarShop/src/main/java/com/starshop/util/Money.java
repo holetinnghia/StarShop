@@ -1,4 +1,0 @@
-package com.starshop.util;
-
-public class Money {
-}
